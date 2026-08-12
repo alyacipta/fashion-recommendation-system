@@ -1,0 +1,5 @@
+torch>=2.0.0
+torchvision>=0.15.0
+annoy>=1.17.0          # On Windows/Python 3.13: may require MSVC Build Tools or conda
+Pillow>=9.0.0
+numpy>=1.24.0
